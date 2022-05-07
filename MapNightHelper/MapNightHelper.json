@@ -1,0 +1,15 @@
+{
+  "ApplicableVersion": "any",
+  "Author": "electr0sheep",
+  "DalamudApiLevel": 6,
+  "Description": "Helps track treasure map links",
+  "InternalName": "mapNightHelper",
+  "Punchline": "",
+  "Name": "Map Night Helper",
+  "RepoUrl": "https://github.com/electr0sheep/MapNightHelper",
+  "Tags": [
+    "plugin",
+    "treasure",
+    "maps"
+  ]
+}
